@@ -22,11 +22,3 @@ This project aims to provide a visual representation of sales data alongside dai
 
 To utilize this project, simply clone the repository and run the provided script. Ensure that you have the necessary dependencies installed, including Matplotlib. Additionally, be sure to provide your sales data in a structured format for accurate visualization.
 
-
-## Contributing
-
-Contributions to this project are welcomed and encouraged. If you have suggestions for improvements, additional features, or bug fixes, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
